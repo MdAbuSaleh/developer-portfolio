@@ -61,3 +61,36 @@ body{
 .headerRight img{
     max-width: 100%;
 }
+
+.banner-section{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.bannerLeft{
+    max-width: 45%;
+    padding-right: 20px;
+}
+.bannerLeft img{
+    max-width: 100%;
+}
+.bannerRight{
+    max-width: 55%;
+    padding-left: 10px;
+}
+.bannerRight h1{
+    font-size: 40px;
+    font-weight: 700;
+    margin: 33.2px 0px;
+}
+.bannerRight h3{
+    font-size: 18.72px;
+    margin: 18.72px 0px;
+    font-weight: 700;
+}
+.bannerRight p{
+    color: #696969;
+    font-size: 16px;
+    margin: 16px 0px;
+    font-weight: 400;
+}
